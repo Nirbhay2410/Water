@@ -1,10 +1,10 @@
 **Water Quality Analysis and Prediction**
 By:-
-
+Nirbhay (220412) 
 Nihar  (220381) 
 Divyanshu (220375) 
 Piyush Garg (220491) 
-Nirbhay (220412) 
+
 
 **Abstract** 
 The process of attempting to analyze and predict  changes in water quality parameters is known 
