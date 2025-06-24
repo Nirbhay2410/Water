@@ -1,12 +1,12 @@
-Water Quality Analysis and Prediction 
+**Water Quality Analysis and Prediction**
 By:-
+
 Nihar  (220381) 
 Divyanshu (220375) 
 Piyush Garg (220491) 
 Nirbhay (220412) 
- 
-  
-**Abstract **
+
+**Abstract** 
 The process of attempting to analyze and predict  changes in water quality parameters is known 
 as water quality analysis and prediction. Accurate analysis regarding water quality could lead 
 to significant improvements in managing water resources and mitigating potential hazards. In 
@@ -21,10 +21,8 @@ water at different monitoring locations. The results revealed insights into the 
 predicted water quality classes, highlighting areas of concern for water pollution and 
 environmental protection. The findings underscore the importance of continued monitoring and 
 assessment of water quality for public health and environmental sustainability. 
- 
- 
-  
-**INTRODUCTION **
+
+**INTRODUCTION**
 Water quality prediction is of paramount importance for ensuring the safety and sustainability of our natural resources. With data collected spanning from 2017 to 2021 from various monitoring stations across different states, this project endeavors to analyze and predict water  quality levels. Four critical parameters - Dissolved Oxygen, pH, Biochemical Oxygen Demand (BOD), and Nitrate - serve as the foundational features for this predictive analysis. Stakeholders in water management must have access to accurate predictions to safeguard public health and environmental integrity. Water quality analysts aim to ascertain the highest standards in water quality for the well-being of communities and ecosystems. Utilizing the Support Vector Classifier (SVC) machine learning model, this study applies advanced computational techniques to the datasets, aiming to forecast water quality across different monitoring locations. By discerning patterns and trends in water quality data, this research contributes valuable insights into the distribution of predicted water quality classes. The implications of this study extend far beyond data analysis; they underscore the urgent need for proactive measures in combating water pollution and advocating for environmental protection. By identifying areas of concern and potential risks, stakeholders can prioritize resource allocation and intervention strategies to mitigate environmental degradation and ensure sustainable water management practices. In the subsequent sections of this report, we delve into the methodology employed, the results obtained, and the implications of our findings. Through rigorous analysis and interpretation, this study seeks to inform policy-makers, environmentalists, and the general public about the critical importance of continued monitoring and assessment of water quality for the collective 
 well-being of society and the environment. 
  
